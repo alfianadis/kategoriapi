@@ -1,0 +1,21 @@
+{
+    "Kategori": [
+      {
+        "id": 1,
+        "kapasitas": "Small",
+        "nama": "Loker Kecil",
+        "harga": "Rp.45.000"
+      },
+      {
+        "id": 2,
+        "kapasitas": "Medium",
+        "nama": "Loker Sedang",
+        "harga": "Rp.75.000"
+      },   {
+        "id": 3,
+        "kapasitas": "Large",
+        "nama": "Loker Besar",
+        "harga": "Rp.100.000"
+      }
+    ]
+}
